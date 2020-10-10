@@ -1,0 +1,19 @@
+{
+  "name": "techzara-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "techzara",
+    "gasy",
+    "madagascar",
+    "barea"
+  ],
+  "repository": "https://github.com/chrys-elrak/techzara-package",
+  "author": "Techzara",
+  "license": "ISC"
+}
