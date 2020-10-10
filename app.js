@@ -1,4 +1,4 @@
 module.exports = {
     manahoana: () => console.log("Manahoana Techzara !"),
-    veloma: () => console.log(" Vilomaaaa !!")
+    veloma: () => console.log("Vilomaaaa !!")
 };
